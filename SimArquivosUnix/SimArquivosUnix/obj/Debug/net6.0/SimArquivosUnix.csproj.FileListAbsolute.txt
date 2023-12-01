@@ -1,0 +1,15 @@
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\bin\Debug\net6.0\SimArquivosUnix.exe
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\bin\Debug\net6.0\SimArquivosUnix.deps.json
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\bin\Debug\net6.0\SimArquivosUnix.runtimeconfig.json
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\bin\Debug\net6.0\SimArquivosUnix.dll
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\bin\Debug\net6.0\SimArquivosUnix.pdb
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.AssemblyInfo.cs
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.dll
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\refint\SimArquivosUnix.dll
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.pdb
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\SimArquivosUnix.genruntimeconfig.cache
+C:\Users\Christian\source\repos\SimArquivosUnix\SimArquivosUnix\obj\Debug\net6.0\ref\SimArquivosUnix.dll
